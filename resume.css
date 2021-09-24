@@ -1,7 +1,5 @@
 
-body {
-    margin-left:75px;    
-    margin-right:75px;  }
+body {}
 
 h1 {    
     margin-top: 1.5em;
@@ -15,25 +13,26 @@ h1 {
 p { 
    margin-top: 0em;
    margin-bottom: 0em;
-   font-size: 15px;
-   margin-left: 2.5em;}
+   font-size: 17px;
+   margin-left: 2.5em;
+   margin-right: 2.5em}
 
 h2{
     margin-top: 1em;
     margin-bottom: 0em;
-    font-size: 15px;}
+    font-size: 17px;}
 
 ul{
     margin-top: 0em;
     margin-bottom: 0em;
     margin-left: 1.5em;
     margin-right: 1em;
-    font-size: 15px;}
+    font-size: 17px;}
 
 h3{
     margin-top: 0em;
     margin-bottom: 0em;
-    font-size: 15px;
+    font-size: 17px;
     font-style: italic}
 
 h4{
@@ -41,7 +40,7 @@ h4{
     margin-bottom: 0em;
     margin-left: 2.5em;
     margin-right: 6em;
-    font-size: 15px;}
+    font-size: 17px;}
 
 .split-para{ 
     display:block;
@@ -52,8 +51,12 @@ h4{
 .split-para span{ 
     display:block;
     float:right;
-    width:40%;
+    width:30%;
     margin-left:10px;
     margin-top: 0em;
     margin-bottom: 0em;}
 
+#wrapper {
+    margin-left:auto;
+    margin-right:auto;
+    width:960px;}
