@@ -6,27 +6,11 @@ h1 {
     margin-bottom: 0em;
     text-align: center;
     font-size: 28px;}
- hr { 
-    margin-top: 0em;
-    margin-bottom: 0em;}
 
-p { 
-   margin-top: 0em;
-   margin-bottom: 0em;
-   font-size: 17px;
-   margin-left: 2.5em;
-   margin-right: 2.5em}
 
 h2{
     margin-top: 1em;
     margin-bottom: 0em;
-    font-size: 17px;}
-
-ul{
-    margin-top: 0em;
-    margin-bottom: 0em;
-    margin-left: 1.5em;
-    margin-right: 1em;
     font-size: 17px;}
 
 h3{
@@ -40,6 +24,35 @@ h4{
     margin-bottom: 0em;
     margin-left: 2.5em;
     margin-right: 6em;
+    font-size: 17px;}
+
+h5{    
+    margin-top: 0em;
+    margin-bottom: 0em;
+    font-size: 17px;
+    margin-left: 2.5em;
+    margin-right: 2.5em;
+    text-align: center;
+    font-weight:normal;}
+
+p { 
+    margin-top: 0em;
+    margin-bottom: 0em;
+    font-size: 19px;
+    margin-left: 2.5em;
+    margin-right: 2.5em}
+    
+
+hr { 
+    margin-top: 0em;
+    margin-bottom: 0em;}
+
+
+ul{
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 1.5em;
+    margin-right: 1em;
     font-size: 17px;}
 
 .split-para{ 
